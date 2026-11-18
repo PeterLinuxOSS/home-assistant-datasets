@@ -159,4 +159,44 @@
   confidence_interval: 0.0%
   good: 20
   total: 20
+- model_id-category: muse-ember-cover
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 48
+  total: 48
+- model_id-category: muse-ember-fan
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 16
+  total: 16
+- model_id-category: muse-ember-light
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 24
+  total: 24
+- model_id-category: muse-ember-lock
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 16
+  total: 16
+- model_id-category: muse-ember-media-player
+  good_percent: 90.0%
+  confidence_interval: 9.3%
+  good: 36
+  total: 40
+- model_id-category: muse-ember-todo
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 16
+  total: 16
+- model_id-category: muse-ember-vacuum
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 16
+  total: 16
+- model_id-category: muse-ember-valve
+  good_percent: 100.0%
+  confidence_interval: 0.0%
+  good: 20
+  total: 20
 

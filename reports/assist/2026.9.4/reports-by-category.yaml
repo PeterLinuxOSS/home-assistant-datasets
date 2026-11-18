@@ -1,42 +1,42 @@
 ---
 - category: cover
-  good_percent: 99.5%
-  confidence_interval: 0.9%
-  good: 219
-  total: 220
+  good_percent: 99.6%
+  confidence_interval: 0.7%
+  good: 274
+  total: 275
 - category: fan
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 120
-  total: 120
+  good: 150
+  total: 150
 - category: light
   good_percent: 69.2%
-  confidence_interval: 5.6%
-  good: 180
-  total: 260
+  confidence_interval: 5.0%
+  good: 225
+  total: 325
 - category: lock
-  good_percent: 73.9%
-  confidence_interval: 6.4%
-  good: 133
-  total: 180
+  good_percent: 76.4%
+  confidence_interval: 5.5%
+  good: 172
+  total: 225
 - category: media-player
-  good_percent: 86.9%
-  confidence_interval: 3.5%
-  good: 313
-  total: 360
+  good_percent: 86.2%
+  confidence_interval: 3.2%
+  good: 388
+  total: 450
 - category: todo
   good_percent: 91.1%
-  confidence_interval: 4.2%
-  good: 164
-  total: 180
+  confidence_interval: 3.7%
+  good: 205
+  total: 225
 - category: vacuum
-  good_percent: 93.5%
-  confidence_interval: 2.6%
-  good: 318
-  total: 340
+  good_percent: 94.8%
+  confidence_interval: 2.1%
+  good: 403
+  total: 425
 - category: valve
-  good_percent: 98.3%
-  confidence_interval: 1.9%
-  good: 177
-  total: 180
+  good_percent: 98.2%
+  confidence_interval: 1.7%
+  good: 221
+  total: 225
 

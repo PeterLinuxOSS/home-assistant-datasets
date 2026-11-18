@@ -10,13 +10,13 @@
   good: 0
   total: 0
 - task_name: eval-test_expect_response
-  good_percent: 97.4%
-  confidence_interval: 0.8%
-  good: 1364
-  total: 1400
+  good_percent: 97.9%
+  confidence_interval: 0.7%
+  good: 1714
+  total: 1750
 - task_name: eval-test_expected_states
-  good_percent: 100.0%
-  confidence_interval: 0.0%
-  good: 80
-  total: 80
+  good_percent: 99.0%
+  confidence_interval: 2.0%
+  good: 99
+  total: 100
 

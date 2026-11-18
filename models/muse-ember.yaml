@@ -1,0 +1,26 @@
+---
+model_id: muse-ember
+domain: open_router
+description: OpenRouter integration using Meta Muse Ember
+categories:
+  - openrouter
+  - cloud
+urls:
+  - https://openrouter.ai/meta/muse-ember
+config_entry_data:
+  api_key: !secret openrouter_api_key
+subentries_data:
+  - subentry_type: conversation
+    title: Mock Title
+    data:
+      model: meta/muse-ember
+      llm_hass_api: assist
+  - subentry_type: ai_task_data
+    title: Mock Title
+    data:
+      model: meta/muse-ember
+      llm_hass_api: assist
+rpm: 250
+cost:
+  input_tokens: 0.10
+  output_tokens: 0.50

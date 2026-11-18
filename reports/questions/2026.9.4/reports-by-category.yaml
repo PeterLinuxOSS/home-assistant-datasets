@@ -1,52 +1,52 @@
 ---
 - category: calendar
   good_percent: 99.8%
-  confidence_interval: 0.4%
-  good: 519
-  total: 520
+  confidence_interval: 0.3%
+  good: 649
+  total: 650
 - category: climate
-  good_percent: 100.0%
-  confidence_interval: 0.0%
-  good: 80
-  total: 80
+  good_percent: 99.0%
+  confidence_interval: 2.0%
+  good: 99
+  total: 100
 - category: light
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 200
-  total: 200
+  good: 250
+  total: 250
 - category: media-player
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 80
-  total: 80
+  good: 100
+  total: 100
 - category: question
-  good_percent: 97.6%
-  confidence_interval: 0.8%
-  good: 1444
-  total: 1480
+  good_percent: 98.0%
+  confidence_interval: 0.6%
+  good: 1813
+  total: 1850
 - category: sensor
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 120
-  total: 120
+  good: 150
+  total: 150
 - category: switch
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 80
-  total: 80
+  good: 100
+  total: 100
 - category: todo
-  good_percent: 82.5%
-  confidence_interval: 5.3%
-  good: 165
-  total: 200
+  good_percent: 86.0%
+  confidence_interval: 4.3%
+  good: 215
+  total: 250
 - category: valve
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 80
-  total: 80
+  good: 100
+  total: 100
 - category: weather
   good_percent: 100.0%
   confidence_interval: 0.0%
-  good: 120
-  total: 120
+  good: 150
+  total: 150
 

@@ -1,0 +1,22 @@
+---
+uuid: 4c6a259e-8f56-4655-83cd-d80cf9db5d43
+timestamp: 2026-11-18 16:59:51.969437
+scrape_config:
+  dataset: assist-mini
+  dataset_path: datasets/assist-mini
+  dataset_version: v1
+  model_id: muse-ember
+  model_output_path: reports/assist-mini/2026.9.4
+version: 2026.9.4
+context:
+  user: root
+  argv:
+  - .venv/bin/pytest
+  - home_assistant_datasets/tool/assist/collect
+  - --models=muse-ember
+  - --dataset=datasets/assist-mini/
+  - --model_output_dir=reports/assist-mini/2026.9.4
+  - -q
+  - -p
+  - no:randomly
+notes: ''

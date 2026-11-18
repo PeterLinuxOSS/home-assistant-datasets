@@ -19,4 +19,9 @@
   confidence_interval: 1.6%
   good: 361
   total: 370
+- model_id: muse-ember
+  good_percent: 99.7%
+  confidence_interval: 0.5%
+  good: 369
+  total: 370
 

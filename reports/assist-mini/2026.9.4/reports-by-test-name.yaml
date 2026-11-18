@@ -15,8 +15,8 @@
   good: 0
   total: 0
 - task_name: eval-test_expected_states
-  good_percent: 97.6%
-  confidence_interval: 1.1%
-  good: 765
-  total: 784
+  good_percent: 97.7%
+  confidence_interval: 0.9%
+  good: 957
+  total: 980
 
